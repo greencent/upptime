@@ -4,36 +4,40 @@
     "url": "https://api.greencent.io",
     "icon": "https://icons.duckduckgo.com/ip3/api.greencent.io.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 812,
-    "timeDay": 709,
+    "timeDay": 643,
     "timeWeek": 812,
     "timeMonth": 812,
     "timeYear": 812,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-02": 0
+    }
   },
   {
     "name": "Auth",
     "url": "https://auth.greencent.io",
     "icon": "https://icons.duckduckgo.com/ip3/auth.greencent.io.ico",
     "slug": "auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 686,
-    "timeDay": 476,
+    "timeDay": 474,
     "timeWeek": 686,
     "timeMonth": 686,
     "timeYear": 686,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-02": 0
+    }
   },
   {
     "name": "Website",
@@ -47,7 +51,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1177,
-    "timeDay": 911,
+    "timeDay": 751,
     "timeWeek": 1177,
     "timeMonth": 1177,
     "timeYear": 1177,
