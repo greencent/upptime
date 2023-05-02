@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.greencent.io.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 789,
     "timeDay": 622,
     "timeWeek": 789,
     "timeMonth": 789,
     "timeYear": 789,
-    "dailyMinutesDown": {
-      "2023-05-02": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Auth",
@@ -25,26 +23,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.greencent.io.ico",
     "slug": "auth",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 677,
     "timeDay": 537,
     "timeWeek": 677,
     "timeMonth": 677,
     "timeYear": 677,
-    "dailyMinutesDown": {
-      "2023-05-02": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Website",
     "url": "https://greencent.io",
     "icon": "https://icons.duckduckgo.com/ip3/greencent.io.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -55,6 +51,8 @@
     "timeWeek": 1177,
     "timeMonth": 1177,
     "timeYear": 1177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-02": 0
+    }
   }
 ]
