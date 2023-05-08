@@ -4,18 +4,20 @@
     "url": "https://api.greencent.io",
     "icon": "https://icons.duckduckgo.com/ip3/api.greencent.io.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1026,
-    "timeDay": 921,
-    "timeWeek": 1145,
-    "timeMonth": 1026,
-    "timeYear": 1026,
-    "dailyMinutesDown": {}
+    "time": 1009,
+    "timeDay": 842,
+    "timeWeek": 1143,
+    "timeMonth": 1009,
+    "timeYear": 1009,
+    "dailyMinutesDown": {
+      "2023-05-08": 0
+    }
   },
   {
     "name": "Auth",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 730,
     "timeDay": 626,
-    "timeWeek": 713,
+    "timeWeek": 742,
     "timeMonth": 730,
     "timeYear": 730,
     "dailyMinutesDown": {}
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 1404,
     "timeDay": 1337,
-    "timeWeek": 1496,
+    "timeWeek": 1549,
     "timeMonth": 1404,
     "timeYear": 1404,
     "dailyMinutesDown": {}
