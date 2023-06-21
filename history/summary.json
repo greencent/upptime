@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.greencent.io.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 917,
-    "timeDay": 481,
-    "timeWeek": 642,
-    "timeMonth": 876,
-    "timeYear": 917,
+    "uptimeYear": "99.98%",
+    "time": 913,
+    "timeDay": 677,
+    "timeWeek": 647,
+    "timeMonth": 872,
+    "timeYear": 913,
     "dailyMinutesDown": {
       "2023-05-08": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 807,
-    "timeDay": 466,
-    "timeWeek": 761,
-    "timeMonth": 797,
-    "timeYear": 807,
+    "time": 806,
+    "timeDay": 748,
+    "timeWeek": 775,
+    "timeMonth": 782,
+    "timeYear": 806,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1355,
-    "timeDay": 847,
-    "timeWeek": 1167,
-    "timeMonth": 1334,
-    "timeYear": 1355,
+    "time": 1356,
+    "timeDay": 1367,
+    "timeWeek": 1228,
+    "timeMonth": 1329,
+    "timeYear": 1356,
     "dailyMinutesDown": {}
   }
 ]
