@@ -42,17 +42,19 @@
     "url": "https://greencent.io",
     "icon": "https://icons.duckduckgo.com/ip3/greencent.io.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1307,
-    "timeDay": 1692,
-    "timeWeek": 1285,
-    "timeMonth": 1208,
-    "timeYear": 1307,
-    "dailyMinutesDown": {}
+    "time": 1300,
+    "timeDay": 1166,
+    "timeWeek": 1204,
+    "timeMonth": 1190,
+    "timeYear": 1300,
+    "dailyMinutesDown": {
+      "2023-07-27": 0
+    }
   }
 ]
