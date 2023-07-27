@@ -1,7 +1,7 @@
 url: https://greencent.io
-status: up
-code: 200
-responseTime: 1692
-lastUpdated: 2023-07-26T23:01:06.390Z
+status: down
+code: 500
+responseTime: 640
+lastUpdated: 2023-07-27T05:31:12.016Z
 startTime: Sun Apr 30 2023 12:12:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
