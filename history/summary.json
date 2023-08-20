@@ -42,7 +42,7 @@
     "url": "https://greencent.io",
     "icon": "https://icons.duckduckgo.com/ip3/greencent.io.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +53,8 @@
     "timeWeek": 1369,
     "timeMonth": 1361,
     "timeYear": 1323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-20": 0
+    }
   }
 ]
