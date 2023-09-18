@@ -4,9 +4,9 @@
     "url": "https://api.greencent.io",
     "icon": "https://icons.duckduckgo.com/ip3/api.greencent.io.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.77%",
+    "uptimeDay": "98.76%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 758,
     "timeYear": 879,
     "dailyMinutesDown": {
+      "2023-09-18": 0,
       "2023-09-17": 18,
       "2023-05-08": 18
     }
@@ -25,9 +26,9 @@
     "url": "https://auth.greencent.io",
     "icon": "https://icons.duckduckgo.com/ip3/auth.greencent.io.ico",
     "slug": "auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.77%",
+    "uptimeDay": "98.76%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -37,6 +38,7 @@
     "timeMonth": 759,
     "timeYear": 785,
     "dailyMinutesDown": {
+      "2023-09-18": 0,
       "2023-09-17": 18
     }
   },
