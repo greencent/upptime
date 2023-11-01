@@ -49,9 +49,9 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1349,
     "timeDay": 2581,
@@ -59,7 +59,6 @@
     "timeMonth": 1320,
     "timeYear": 1349,
     "dailyMinutesDown": {
-      "2023-10-31": 15,
       "2023-08-20": 40
     }
   }
