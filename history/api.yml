@@ -1,7 +1,7 @@
 url: https://api.greencent.io
-status: down
-code: 404
-responseTime: 988
-lastUpdated: 2024-01-05T11:20:08.246Z
+status: up
+code: 401
+responseTime: 614
+lastUpdated: 2024-01-05T11:32:51.040Z
 startTime: 2023-04-30T12:12:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
